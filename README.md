@@ -3,10 +3,10 @@
 Machine Learning final project / Armelle ADAM, Lola COCHE
 
 **Question:** using only acoustic features of a sustained vowel, can a classical classifier detect Parkinson's disease (PD)
-in a person it has never heard, and how many of the 753 features does it need?
+in a person it has never heard and how many of the 753 features does it need?
 
 **Dataset:** [UCI Parkinson's Disease Classification](https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification)
-(Sakar et al., 2018, CC BY 4.0) — 756 recordings of 252 people (3 each): 188 PD, 64 healthy; 753 features + gender.
+(Sakar et al., 2018, CC BY 4.0). 756 recordings of 252 people (3 each): 188 PD, 64 healthy; 753 features + gender.
 
 ---
 
@@ -16,8 +16,8 @@ in a person it has never heard, and how many of the 753 features does it need?
 |---|---|---|---|
 | 1 | Project definition, dataset, EDA | ✅ Done | `notebooks/week1_eda.ipynb`, specification document |
 | 2 | Data preparation and baseline | ✅ Done | `notebooks/week2_preparation_baseline.ipynb` |
-| 3 | Models, feature selection, tuning | ⏳ Next | — |
-| 4 | Final test evaluation, report, oral | ⬜ To do | — |
+| 3 | Models, feature selection, tuning | ⏳ Next | ... |
+| 4 | Final test evaluation, report, oral | ⬜ To do | ... |
 
 ### Week 1 — key findings (EDA)
 - No missing values; 1 duplicated recording (subject 37, kept: same person, same split).
