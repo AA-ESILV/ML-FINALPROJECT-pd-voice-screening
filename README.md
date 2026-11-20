@@ -1,6 +1,6 @@
 # Voice-Based Screening of Parkinson's Disease
 
-ESILV A4 — Machine Learning project (MESIIN470226), Medical Engineering major — Group XX: [Student 1], [Student 2]
+Machine Learning final project / Armelle ADAM, Lola COCHE
 
 **Question:** using only acoustic features of a sustained vowel, can a classical classifier detect Parkinson's disease (PD)
 in a person it has never heard, and how many of the 753 features does it need?
