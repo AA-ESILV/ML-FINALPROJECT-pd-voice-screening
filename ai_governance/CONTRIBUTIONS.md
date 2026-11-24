@@ -1,7 +1,6 @@
-# CONTRIBUTIONS — Group XX
+# CONTRIBUTIONS
 
 The lab asks for 4 modules with one owner each. We are a pair, so each student owns 2 modules.
-Replace the placeholders with your names, and keep this table honest: you must be able to explain every line of your modules orally.
 
 | # | Module | Files / notebook sections | Owner | Reviewer |
 |---|---|---|---|---|
