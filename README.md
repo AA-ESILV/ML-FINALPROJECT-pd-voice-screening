@@ -14,10 +14,10 @@ in a person it has never heard and how many of the 753 features does it need?
 
 | Week | Milestone | Status | Where |
 |---|---|---|---|
-| 1 | Project definition, dataset, EDA | ✅ Done | `notebooks/week1_eda.ipynb`, specification document |
-| 2 | Data preparation and baseline | ✅ Done | `notebooks/week2_preparation_baseline.ipynb` |
-| 3 | Models, feature selection, tuning | ⏳ Next | ... |
-| 4 | Final test evaluation, report, oral | ⬜ To do | ... |
+| 1 | Project definition, dataset, EDA | Done | `notebooks/week1_eda.ipynb`, specification document |
+| 2 | Data preparation and baseline | Done | `notebooks/week2_preparation_baseline.ipynb` |
+| 3 | Models, feature selection, tuning | Next | ... |
+| 4 | Final test evaluation, report, oral | To do | ... |
 
 ### Week 1: key findings
 - No missing values; 1 duplicated recording (subject 37, kept: same person, same split).
